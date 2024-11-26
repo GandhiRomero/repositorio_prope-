@@ -1,0 +1,10 @@
+function laultimaletraes () {
+var nombre=prompt ("ingresa tu nombre");
+var apellidop=prompt ("ingresa apellido paterno");
+var apellidom=prompt ("ingresa apellido materno");
+resultado =nombre +apellidop +apellidom;
+console.log ( "el nombre completo es" + resultado );
+console.log ( "la ultima letra es:" )
+}
+
+solicitarNombreCompleto (); 
